@@ -1,14 +1,13 @@
-
-First, run the development server:
+#Como executar
 
 npm install
 
-# depois
+depois
 
 npm run dev
-# or
+ou
 yarn dev
-# or
+ou
 pnpm dev
 
 # ps: Lembra de instalar o node
