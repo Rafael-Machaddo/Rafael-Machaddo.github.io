@@ -26,7 +26,7 @@ export default function Testimonials() {
                   <Image className="rounded-full" src={Professor1} width={48} height={48} alt="Leanderson" />
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">Mestre em Computação Aplicada (UDESC, 2015) e Bacharel em Sistemas de Informação (UNIVILLE, 2011)</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">Mestre em Computação Aplicada (UDESC, 2015) e Bacharel em Sistemas de Informação (UNIVILLE, 2011).</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Leanderson André</cite> - <a className="text-green-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://leandersonandre.com/">Conheça</a>
               </div>
