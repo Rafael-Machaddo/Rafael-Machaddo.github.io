@@ -68,6 +68,15 @@ export default function MobileMenu() {
               Meu espaço
             </Link>
           </li>
+          <div data-aos="fade-up" data-aos-delay="600">
+          <a className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-green-600 hover:bg-green-700 transition duration-150 ease-in-out" href="#features-section">Conheça-nos</a>
+          </div>
+          <div data-aos="fade-up" data-aos-delay="600">
+          <a className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-green-600 hover:bg-green-700 transition duration-150 ease-in-out" href="#projetos-section">Projetos</a>
+          </div>
+          <div data-aos="fade-up" data-aos-delay="600">
+          <a className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-green-600 hover:bg-green-700 transition duration-150 ease-in-out" href="#contato-section">Contato</a>
+          </div>
         </ul>
       </nav>
     </div>

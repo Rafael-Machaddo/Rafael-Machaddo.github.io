@@ -11,6 +11,7 @@ export default function Newsletter() {
   };
    return (
     <section>
+      <div id="contato-section" className="max-w-3xl mx-auto text-center pb-12 md:pb-16"></div>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
 
         {/* CTA box */}
