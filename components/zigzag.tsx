@@ -33,27 +33,17 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-green-600 mb-2">FRASE CURTA</div>
-                  <h3 className="h3 mb-3">PROJETO 1</h3>
-                  <p className="text-xl text-gray-400 mb-4">BREVE DESCRIÇÃO.</p>
-                  <ul className="text-lg text-gray-400 -mb-2">
+                  <div className="font-architects-daughter text-xl text-green-600 mb-2">IOT</div>
+                  <h3 className="h3 mb-3">Aplicação IOT para controle do processo fabril</h3>
+                  <p className="text-xl text-gray-400 mb-4">Desenvolvimento de uma solução que aplique o conceito de internet das coisas para apoiar o controle do processo de fabricação dos produtos da empresa Docol SA.</p>
+                  <ul className="text-lg text-gray-400 -mb-4">
                     <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>CARACTERISTICA</span>
+                      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 34 14" stroke-width="1.5" stroke="green" className="size-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" /> </svg>
+                      <span>Eduardo Gabriel (Sistemas de Informação)</span>
                     </li>
                     <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>CARACTERISTICA</span>
-                    </li>
-                    <li className="flex items-center">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>CARACTERISTICA</span>
+                      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 34 24" stroke-width="1.5" stroke="green" className="size-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" /> </svg>
+                      <span>2015</span>
                     </li>
                   </ul>
                 </div>
@@ -69,27 +59,27 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-green-600 mb-2">More speed. Less spend</div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
-                  <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <div className="font-architects-daughter text-xl text-green-600 mb-2">Frase</div>
+                  <h3 className="h3 mb-3">Nome do Projeto</h3>
+                  <p className="text-xl text-gray-400 mb-4">Descrição do projeto</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Caracteristica</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Caracteristica</span>
                     </li>
                     <li className="flex items-center">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Caracteristica</span>
                     </li>
                   </ul>
                 </div>
@@ -103,29 +93,29 @@ export default function Zigzag() {
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage03} width={540} height={405} alt="Features 03" />
               </div>
               {/* Content */}
-              <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
-                <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-green-600 mb-2">More speed. Less spend</div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
-                  <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
+                <div className="md:pl-4 lg:pl-12 xl:pl-16">
+                  <div className="font-architects-daughter text-xl text-green-600 mb-2">Frase</div>
+                  <h3 className="h3 mb-3">Nome do Projeto</h3>
+                  <p className="text-xl text-gray-400 mb-4">Descrição do projeto</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Caracteristica</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Caracteristica</span>
                     </li>
                     <li className="flex items-center">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Caracteristica</span>
                     </li>
                   </ul>
                 </div>
